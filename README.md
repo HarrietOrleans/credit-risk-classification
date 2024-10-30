@@ -19,6 +19,7 @@ This is the final results:
                 precision    recall  f1-score   support
                 
   Healthy Loan       1.00      0.99      1.00     18765
+  
 High-Risk Loan       0.85      0.91      0.88       619
 
       accuracy                           0.99     19384
