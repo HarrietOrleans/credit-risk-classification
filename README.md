@@ -8,7 +8,7 @@ To prepare the data, I loaded the dataset and split it into variables with targe
 
 Trained a logistic regression model on the training data to predict the loan status using LogisticRegression from Scikit-Learn with a random_state parameter so that my results can be reproduced.
 
-Finally, generated prediction sand evaluated the model using the confusion matrix and a classification to display our accuracy, precision, and recall.
+Finally, generated prediction and evaluated the model using the confusion matrix and a classification to display our accuracy, precision, and recall.
 
 This is the final results: 
 [[18663   102]
