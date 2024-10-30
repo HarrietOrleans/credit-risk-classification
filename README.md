@@ -10,9 +10,13 @@ Trained a logistic regression model on the training data to predict the loan sta
 
 Finally, generated prediction sand evaluated the model using the confusion matrix and a classification to display our accuracy, precision, and recall.
 
-This is the final result: 
+This is the final results: 
+
 [[18663   102]
  [   56   563]]
+
+                
+                
                 precision    recall  f1-score   support
 
   Healthy Loan       1.00      0.99      1.00     18765
